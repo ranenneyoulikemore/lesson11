@@ -1,0 +1,195 @@
+.inst{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+    border-radius: 50px;
+    z-index:1 ;
+    position: relative;
+}
+.white1{
+    width: 170px;
+    height: 170px;
+    background-color: rgb(255, 255, 255);
+    z-index:2 ;
+    position: absolute; 
+    bottom: 15px; 
+    right: 15px; 
+    line-height: 1px;
+    border-radius: 50px;
+}
+.inst2{
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+    border-radius: 30px;
+    z-index:3 ;
+    position: absolute; 
+    bottom: 10px; 
+    right: 10px; 
+    line-height: 1px;
+    border-radius: 45px;
+}
+.white2{
+    width: 110px;
+    height: 110px;
+    background-color: rgb(255, 255, 255);
+    z-index:2 ;
+    position: absolute; 
+    bottom: 20px; 
+    right: 20px; 
+    line-height: 1px;
+    border-radius: 70px;
+}
+.inst3{
+    width: 80px;
+    height: 80px;
+    z-index:2 ;
+    position: absolute; 
+    bottom: 15px; 
+    right: 15px; 
+    line-height: 1px;
+    border-radius: 70px;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+}
+.white3{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 255, 255);
+    z-index:3 ;
+    position: absolute; 
+    bottom: 87px; 
+    right: -12px; 
+    line-height: 1px;
+    border-radius: 70px;
+}
+.japanwhite{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    outline: 5px solid rgb(68, 68, 68);
+    border: 3px solid #fff;
+    margin: 20px;
+    position: relative;
+}
+.redjapan{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 0, 0);
+    border-radius: 70px;
+    position: absolute; 
+    bottom: 20px; 
+    right: 95px; 
+}
+.green1{
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    background-color: rgb(0, 199, 60);
+    border-radius: 100px;
+    position: relative;
+
+}
+.green2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 199, 60);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 100px; 
+    right: 105px; 
+}
+.green3{
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 199, 60);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: -30px; 
+    right: -130px; 
+}
+.container3{
+    margin:100px ;
+}
+.eyes1{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 10px; 
+    right: 110px; 
+}
+.eyes2{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 0px; 
+    right: -100px; 
+}
+.blackgreen1{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(1, 43, 8);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 10px; 
+    right: 110px; 
+}
+.blackgreen2{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(1, 43, 8);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 0px; 
+    right: -100px;
+}
+.black1{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 5px; 
+    right: 110px; 
+}
+.black2{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 5px; 
+    right: 10px;
+}
+.whireeyes1{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(153, 153, 153, 0.247);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 15px; 
+    right: -20px;
+}
+.whireeyes2{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(153, 153, 153, 0.247);
+    border-radius: 100px;
+    position: absolute; 
+    bottom: 15px; 
+    right: -20px;
+}
+.small{
+        display:block;
+        width: 100px;
+        height:100px;
+        border-radius:50%;
+        border-top:1px solid rgb(0, 0, 0);
+        position: absolute; 
+        bottom: -140px; 
+        right: 20px;
+}
